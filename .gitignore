@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# avoding updating amazon reviews dataset as file is huge
+*Reviews.csv
+
+#sqllite objects 
+*.sqlite
