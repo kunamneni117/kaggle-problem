@@ -133,3 +133,7 @@ dmypy.json
 
 #sqllite objects 
 *.sqlite
+
+#quora source files ignore
+quora-duplicate-questions/notebook/dataset/input/*.csv
+quora-duplicate-questions/notebook/dataset/input/*.zip
