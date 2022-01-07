@@ -137,3 +137,6 @@ dmypy.json
 #quora source files ignore
 quora-duplicate-questions/notebook/dataset/input/*.csv
 quora-duplicate-questions/notebook/dataset/input/*.zip
+
+quora-duplicate-questions/notebook/dataset/output/*.csv
+quora-duplicate-questions/notebook/dataset/output/*.zip
